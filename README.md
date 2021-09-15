@@ -39,8 +39,8 @@ The app uses the Covid Act Now API. Internet connection is required.
 
 ## Contribution
 Covid Now app is a free and open source project developed by () and (). Any contributions are welcome. Here are a few ways you can help:
-### Report bugs and make suggestions.
-### Write some code. Please follow the code style used in the project to make a review process faster.
+* Report bugs and make suggestions.
+* Write some code. Please follow the code style used in the project to make a review process faster.
  
 
 ## License
