@@ -13,7 +13,6 @@ The app contains five pages -- main page, state manager page, search page, delet
 | Main Page | State Manager | Add more states | Delete existing states | App Setting |
 | :---         |     :---       |  :---  |     :---  |   :---  |
 | <img src = "readme/mainPage.gif" width="180" />   | <img src = "readme/state_manage.png" width="180" /> | <img src = "readme/AddState.gif" width="180" />    | <img src = "readme/DeleteState.gif" width="180" />   | <img src = "readme/setting.gif" width="180" />   |
-| git diff     | git diff       | git diff      | git status    | git status    |
 
 
 
