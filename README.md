@@ -1,7 +1,7 @@
 # Android-Development_CovidApp
 Contributor: Xiuyu Liu; Qingqing Cao
 ## Descriptions
-Covid Now is an Android app providing real-time covid information of each state in the United States. The user is able to query daily new cases, infection rate,vaccination rate, positive rate, state total population, cumulative positive cases, cumulative death cases and recommendation for masks, indoor activity, schools, travel, etc. The user is able to save the data up to six states locally and access them offline. 
+Covid Now is an Android app providing real-time covid information of each state in the United States. We deveoped this app to display important covid information (infection, hospitalization, vaccine) of areas requested by users. [Covid Now API](https://covidactnow.org/data-api) is integrated in the application to obtain real-time covid data. SQLite database is used to locally store and manage covid data offline. We also developed CRUD operations on managing the covid-related information.
 
 ## Project demo
 <img src="Animation.gif" width="250"/>
