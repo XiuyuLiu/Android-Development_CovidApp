@@ -3,7 +3,7 @@
 Covid Now is an Android app providing real-time covid information of each state in the United States. The user is able to query daily new cases, infection rate,vaccination rate, positive rate, state total population, cumulative positive cases, cumulative death cases and recommendation for masks, indoor activity, schools, travel, etc. The user is able to save the data up to six states locally and access them offline. 
 
 ## Project demo
-![Alt text](Animation.gif?raw=true "Optional Title")
+![Alt text](Animation.gif?raw=true "Optional Title " width="200")
 
 ## Features
 The app contains five pages -- main page, state manager page, search page, delete page and setting page.
